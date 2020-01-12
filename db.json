@@ -7,7 +7,7 @@
 			"price": 129.99,
 			"weight": 430,
 			"size": 30,
-			"img-url": "./img/pizza/capricciosa.jpg"
+			"img_url": "./img/pizza/capricciosa.jpg"
 		},
 		{
 			"id": 2,
@@ -16,7 +16,7 @@
 			"price": 167.99,
 			"weight": 580,
 			"size": 30,
-			"img-url": "./img/pizza/cezario.jpg"
+			"img_url": "./img/pizza/cezario.jpg"
 		},
 		{
 			"id": 3,
@@ -34,7 +34,7 @@
 			"price": 117.99,
 			"weight": 390,
 			"size": 30,
-			"img-url": "./img/pizza/salame.jpg"
+			"img_url": "./img/pizza/salame.jpg"
 		},
 		{
 			"id": 5,
@@ -43,7 +43,7 @@
 			"price": 99.99,
 			"weight": 400,
 			"size": 30,
-			"img-url": "./img/pizza/margaryta.jpg"
+			"img_url": "./img/pizza/margaryta.jpg"
 		},
 		{
 			"id": 6,
@@ -52,7 +52,7 @@
 			"price": 114.99,
 			"weight": 400,
 			"size": 30,
-			"img-url": "./img/pizza/dyavola.jpg"
+			"img_url": "./img/pizza/dyavola.jpg"
 		},
 		{
 			"id": 7,
@@ -61,7 +61,7 @@
 			"price": 132.99,
 			"weight": 400,
 			"size": 30,
-			"img-url": "./img/pizza/carbonara.jpg"
+			"img_url": "./img/pizza/carbonara.jpg"
 		},
 		{
 			"id": 8,
@@ -70,7 +70,7 @@
 			"price": 127.99,
 			"weight": 390,
 			"size": 30,
-			"img-url": "./img/pizza/prosciutto.jpg"
+			"img_url": "./img/pizza/prosciutto.jpg"
 		},
 		{
 			"id": 9,
@@ -79,7 +79,7 @@
 			"price": 154.99,
 			"weight": 380,
 			"size": 30,
-			"img-url": "./img/pizza/parma.jpg"
+			"img_url": "./img/pizza/parma.jpg"
 		},
 		{
 			"id": 10,
@@ -88,7 +88,7 @@
 			"price": 124.99,
 			"weight": 440,
 			"size": 30,
-			"img-url": "./img/pizza/polo.jpg"
+			"img_url": "./img/pizza/polo.jpg"
 		},
 		{
 			"id": 11,
@@ -97,7 +97,7 @@
 			"price":  156.99,
 			"weight": 450,
 			"size": 30,
-			"img-url": "./img/pizza/tono.jpg"
+			"img_url": "./img/pizza/tono.jpg"
 		},
 		{
 			"id": 12,
@@ -106,7 +106,7 @@
 			"price":  134.99,
 			"weight": 410,
 			"size": 30,
-			"img-url": "./img/pizza/melanzana.jpg"
+			"img_url": "./img/pizza/melanzana.jpg"
 		},
 		{
 			"id": 13,
@@ -115,7 +115,7 @@
 			"price":  174.99,
 			"weight": 380,
 			"size": 30,
-			"img-url": "./img/pizza/alsalmone.jpg"
+			"img_url": "./img/pizza/alsalmone.jpg"
 		},
 		{
 			"id": 14,
@@ -124,7 +124,7 @@
 			"price":  146.99,
 			"weight": 450,
 			"size": 30,
-			"img-url": "./img/pizza/flamingo.jpg"
+			"img_url": "./img/pizza/flamingo.jpg"
 		}
 	]
 }
