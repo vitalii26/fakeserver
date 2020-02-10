@@ -1,4 +1,5 @@
-[{"url":"gridpane.host","serverip":"35.237.42.207","name":"rs1-gcp"},
+{
+ [{"url":"gridpane.host","serverip":"35.237.42.207","name":"rs1-gcp"},
  {"url":"gridpane.host","serverip":"34.94.118.112","name":"rs2-gcp"},
  {"url":"gridpane.host","serverip":"157.245.246.216","name":"rs3-do"},
  {"url":"gridpane.host","serverip":"167.172.211.164","name":"rs4-do"},
@@ -8,3 +9,4 @@
  {"url":"newerer.com","serverip":"159.65.88.180","name":"newerer"},
  {"url":"nsfwp.online","serverip":"159.65.88.180","name":"newerer"},
  {"url":"nsfwp.site","serverip":"209.97.183.48","name":"newer"}]
+}
